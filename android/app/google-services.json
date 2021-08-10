@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357216397587",
+    "project_id": "char-yaar",
+    "storage_bucket": "char-yaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357216397587:android:09e01500ecdab113af92e6",
+        "android_client_info": {
+          "package_name": "com.example.char_yaar_trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357216397587-okpn94hru7s44gojs0hsfm6lfr1b8u32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQOODgtOiF_ut7ujt1Fd_btfNAS736nDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357216397587-okpn94hru7s44gojs0hsfm6lfr1b8u32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
